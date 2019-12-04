@@ -3,6 +3,6 @@ main:
   - title: "Bio"
     url: /bio/
   - title: "Resume"
-    url: /assets/pdf/resume.pdf/
+    url: /resume/
   - title: "Portfolio"
     url: /portfolio/
