@@ -2,7 +2,6 @@
 permalink: /portfolio/
 layout: single
 title: Portfolio
-classes: wide
 ---
 ## Armabot
 I worked for [Armabot](https://www.armabot.com/) in the summers
@@ -14,12 +13,8 @@ a mentor to me. My tasks were varied, including:
 * Product Manufacturing (Manual Machining, CNC operation)
 * Filming and editing of instructional videos
 
-<figure class="half">
-    <a href="/assets/images/20180711_165852.jpg">
-	<img src="/assets/images/20180711_165852.jpg"></a>
-    <a href="/assets/images/20180823_133114.jpg">
-	<img src="/assets/images/20180823_133114.jpg"></a>
-</figure>
+The complete portfolio of my Armabot work can be found [here](/armabot/)
+
 ## Writing Samples
 [Topology Optimization Translation Report](/assets/translationreport.pdf)  
 This report gives an overview of the process of topology optimization for a
