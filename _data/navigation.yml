@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "Bio"
-    url: /bio/
+  - title: "Home"
+    url: /
   - title: "Resume"
     url: /resume/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Armabot"
+    url: /armabot/

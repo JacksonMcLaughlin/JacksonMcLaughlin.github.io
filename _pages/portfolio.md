@@ -16,13 +16,13 @@ a mentor to me. My tasks were varied, including:
 The complete portfolio of my Armabot work can be found [here](/armabot/)
 
 ## Writing Samples
-[Topology Optimization Translation Report](/assets/translationreport.pdf)  
+[Topology Optimization Translation Report](/assets/pdf/translationreport.pdf)  
 This report gives an overview of the process of topology optimization for a
 non-technical user. It was written for my Technical Writing class. The
 objective of the assignment was to develop skills in making complex content
 clear.
 
-[Strain Gauge Calibration Memo](/assets/strainmemo.pdf)  
+[Strain Gauge Calibration Memo](/assets/pdf/strainmemo.pdf)  
 This memo describes the results my lab group got using a strain gauge with
 a cantilever beam to form a load cell. Known masses were used to define a
 calibration curve, and then unknown masses were determined using the cell.
@@ -34,3 +34,8 @@ spare tires for the Formula SAE team at competition. The cart was
 designed using the Weldments features of SOLIDWORKS. Working with
 an older student, I learned the necesarry skills to TIG weld the
 frame together. 
+
+<figure class="half">
+  <a href="{{ site.url }}/assets/images/20181208_102429.jpg"><img src="{{ site.url }}/assets/images/20181208_102429.jpg"></a>
+  <a href="{{ site.url }}/assets/images/20190608_230813.jpg"><img src="{{ site.url }}/assets/images/20190608_230813.jpg"></a>
+</figure>

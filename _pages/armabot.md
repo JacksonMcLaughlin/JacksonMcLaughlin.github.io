@@ -4,6 +4,7 @@ layout: single
 classes: wide
 title: Armabot
 ---
+I worked at [Armabot](https://armabot.com) in Summer 2018 and 2019. This is a selection of some of my work there.
 ## Instructions
 <figure class="third">
   <a href="{{ site.url }}/assets/pdf/A0067_I.pdf"><img src="{{ site.url }}/assets/pdf/A0067_I.jpg"></a>
