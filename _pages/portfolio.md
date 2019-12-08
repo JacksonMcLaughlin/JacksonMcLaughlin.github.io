@@ -13,7 +13,7 @@ a mentor to me. My tasks were varied, including:
 * Product Manufacturing (Manual Machining, CNC operation)
 * Filming and editing of instructional videos
 
-The complete portfolio of my Armabot work can be found [here](/armabot/)
+The complete portfolio of my Armabot work can be found [on the Armabot Page.](/armabot/)
 
 ## Writing Samples
 [Topology Optimization Translation Report](/assets/pdf/translationreport.pdf)  
